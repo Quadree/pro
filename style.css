@@ -1,0 +1,18 @@
+#camera{
+    border: 2px dotted royalblue;
+    width: 350px;
+    height: 350px;
+}
+body{
+color: crimson;
+background-color: royalblue;
+}
+.heading{
+    width:50%;
+    font-size: 40px;
+    color: crimson;
+    background-color: royalblue;
+}
+#objects{
+    color: crimson;
+}
